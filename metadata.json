@@ -1,0 +1,5 @@
+{
+  "name": "TON 618 Simulator",
+  "description": "Interactive WebGPU simulation of the ultramassive black hole TON 618, featuring relativistic raymarching, gravitational lensing, and multi-wavelength views.",
+  "requestFramePermissions": []
+}
